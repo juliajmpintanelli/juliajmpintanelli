@@ -1,16 +1,19 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**juliajmpintanelli/juliajmpintanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é julia pintanelli
 
-Here are some ideas to get you started:
+- nascida 06.05.2007
+- tenho 17 anos
+- católica
+- musculação
+- vôlei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ### você pode entrar em contato comigo 📫
+  juliajmpintanelli@gmail.com
+  
+  @juliajmpintanelli
+  
+  [](![image](https://github.com/juliajmpintanelli/juliajmpintanelli/assets/169299155/5b747726-bc5b-4db7-8081-79070bf10d03)
+
+ 
